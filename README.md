@@ -1,7 +1,7 @@
 # OpenGL_Pistol
 Load a pistol model (obj and mtl). Add a fire animation with sound.\
 Simulate fire explosion and fire with particle system. \
-Add first persion view. 
+Add first person view. 
 
 ## How to Run
 Open sample.sln with Visual Studio, link glm library.
