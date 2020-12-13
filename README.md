@@ -12,5 +12,5 @@ e/E: toggle fire \
 space: fire in normal view \
 left-click: fire in first-person view
 
-##Demo video
+## Demo video
 https://media.oregonstate.edu/media/t/1_pl22bjuy
